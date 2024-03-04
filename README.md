@@ -14,3 +14,9 @@ Produces the plots used in the paper
 
 survey_analysis_newcutoff_residual.R
 FOI estimation and risk factor analysis of the seroprevalence survey
+
+Folder "Data_for_sharing" 
+Contains the original case and seroprevalence data used to fit the model
+
+Folder "Output"
+Contains ".RData" objects with the model results used to generate all the figures in the manuscript
